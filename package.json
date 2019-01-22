@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "React + Next.js boilerplate",
   "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
   "repository": "https://github.com/mattonit/react-next",
   "author": "Mattonit",
   "license": "MIT",
@@ -11,6 +16,7 @@
     "express": "^4.16.4",
     "next": "^7.0.2",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "styled-components": "^4.1.3"
   }
 }
