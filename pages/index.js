@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Header from '../components/header.js';
+import Footer from '../components/footer.js';
 
 class Index extends Component {
 
@@ -8,6 +9,7 @@ class Index extends Component {
       <div>
         <Header />
         <h1>Home page</h1>
+        <Footer />
       </div>
     );
   }
