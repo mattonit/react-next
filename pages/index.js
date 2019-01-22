@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
+import Header from '../components/header.js';
 
 class Index extends Component {
 
   render() {
     return(
-      <h2>Index</h2>
+      <div>
+        <Header />
+        <h1>Home page</h1>
+      </div>
     );
   }
 
