@@ -1,0 +1,10 @@
+{
+  "name": "react-next",
+  "version": "1.0.0",
+  "description": "React + Next.js boilerplate",
+  "main": "server.js",
+  "repository": "https://github.com/mattonit/react-next",
+  "author": "Mattonit",
+  "license": "MIT",
+  "private": false
+}
