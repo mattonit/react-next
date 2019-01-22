@@ -6,5 +6,11 @@
   "repository": "https://github.com/mattonit/react-next",
   "author": "Mattonit",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4",
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
 }
